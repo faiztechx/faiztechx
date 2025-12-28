@@ -6,7 +6,13 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,spring,nodejs,mysql,mongodb,git,github,vscode,idea&theme=light" />
+</p>
+
+**Fundamentals:** DSA, OOP  
+**Design:** Mobile-First • Responsive UI • UX
+
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 
